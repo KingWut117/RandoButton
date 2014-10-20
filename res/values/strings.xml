@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Screen Changer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="screenButton">SCREEN</string>
+
+    <color name="screenColor">#900</color>
+
+    <string name="title_activity_second">Second Screen :3</string>
+    <string name="secondScreenButton">Return to first SCREEN</string>
+
+</resources>
